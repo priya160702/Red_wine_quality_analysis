@@ -29,21 +29,21 @@ Alcohol: The percentage of alcohol, influencing the wine's body and warmth.
 <img src="Wine.png" alt="Picture" width="300"/>
 
 
-The data was cleaned, preprocessed, and visualized before implementing various algorithms:
+The data was preprocessed and visualized before implementing various algorithms:
 
 Logistic Regression (Accuracy: 60%): A method used to model binary outcomes by estimating probabilities.
 
 Decision Tree Classifier (Accuracy: 80%): A model that splits the data into branches to make decisions based on feature values.
 
-Random Forest Classifier (Accuracy: 86%): An ensemble method that uses multiple decision trees to improve accuracy and prevent overfitting.
+Random Forest Classifier (Accuracy: 87%): An ensemble method that uses multiple decision trees to improve accuracy and prevent overfitting.
 
-SVM Classifier (Accuracy: 63%): A method that finds the optimal boundary between classes by maximizing the margin.
+SVM Classifier (Accuracy: 62%): A method that finds the optimal boundary between classes by maximizing the margin.
 
-K-Nearest Neighbors (Accuracy: 77%): A non-parametric method that classifies based on the closest training examples in the feature space.
+K-Nearest Neighbors (Accuracy: 76%): A non-parametric method that classifies based on the closest training examples in the feature space.
 
-Naive Bayes (Accuracy: 46%): A probabilistic classifier based on Bayes' theorem with strong independence assumptions.
+Naive Bayes (Accuracy: 49%): A probabilistic classifier based on Bayes' theorem with strong independence assumptions.
 
-Gradient Boosting Algorithm (Accuracy: 79%): An ensemble technique that builds models sequentially, each correcting the errors of the previous one.
+Gradient Boosting Algorithm (Accuracy: 81%): An ensemble technique that builds models sequentially, each correcting the errors of the previous one.
 
 
 Based on the analysis, the Random Forest Classifier emerged as the most effective model for classifying wine quality.
