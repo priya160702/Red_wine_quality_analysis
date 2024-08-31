@@ -28,6 +28,7 @@ Alcohol: The percentage of alcohol, influencing the wine's body and warmth.
 
 <img src="Wine.png" alt="Picture" width="300"/>
 
+
 The data was cleaned, preprocessed, and visualized before implementing various algorithms:
 
 Logistic Regression (Accuracy: 60%): A method used to model binary outcomes by estimating probabilities.
@@ -43,5 +44,6 @@ K-Nearest Neighbors (Accuracy: 77%): A non-parametric method that classifies bas
 Naive Bayes (Accuracy: 46%): A probabilistic classifier based on Bayes' theorem with strong independence assumptions.
 
 Gradient Boosting Algorithm (Accuracy: 79%): An ensemble technique that builds models sequentially, each correcting the errors of the previous one.
+
 
 Based on the analysis, the Random Forest Classifier emerged as the most effective model for classifying wine quality.
