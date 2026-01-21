@@ -48,5 +48,6 @@ Naive Bayes (Accuracy: 49%): A probabilistic classifier based on Bayes' theorem 
 
 Gradient Boosting Algorithm (Accuracy: 81%): An ensemble technique that builds models sequentially, each correcting the errors of the previous one.
 
+### Result
 
 Based on the analysis, the Random Forest Classifier emerged as the most effective model for classifying wine quality.
