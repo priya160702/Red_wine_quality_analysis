@@ -4,6 +4,8 @@ To classify the quality of wine, multiple features will be analyzed using regres
 
 Link to the dataset: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
 
+### About the Dataset
+
 Volatile Acidity: Refers to the gaseous acids in wine, influencing its aroma and taste.
 
 Fixed Acidity: Comprises primary acids like tartaric, succinic, citric, and malic, essential for the wine's structure.
@@ -28,6 +30,7 @@ Alcohol: The percentage of alcohol, influencing the wine's body and warmth.
 
 <img src="Wine.png" alt="Picture" width="300"/>
 
+### Analysis and Algorithms Used
 
 The data was preprocessed and visualized before implementing various algorithms:
 
