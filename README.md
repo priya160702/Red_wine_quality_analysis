@@ -1,4 +1,4 @@
-# Red_wine_quality_analysis
+# Red Wine Quality Analysis
 
 To classify the quality of wine, multiple features will be analyzed using regression and classification techniques to identify the most effective algorithm.
 
